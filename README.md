@@ -1,24 +1,6 @@
-## 💻 Что я пишу в терминале
-
-```bash
-$ whoami
-> AI/ML Developer passionate about RAG
-
-$ current_focus
-> [CorpKnow AI] Building intelligent knowledge assistant
-
-$ tech_stack
-> Python ■■■■■■■■■□ 90%
-> C      ■■■■■■■□□□ 70%
-> LangChain ■■■■■■■■□□ 80%
-
-$ next_goal
-> ✨ Master advanced RAG techniques
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Building+CorpKnow+AI...;RAG+%26+LLM+Enthusiast;Solving+algorithms+in+C;Open+to+collaboration!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=🤖+Building+CorpKnow+AI;🔍+RAG+%7C+LangChain+%7C+LLM;💻+C+%26+Python+Developer;🎯+Solving+algorithms+on+Stepik;✨+Open+to+collaboration!" alt="Typing Animation"/>
 </p>
-```
 
 # AI/ML developer
 
