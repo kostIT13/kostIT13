@@ -42,3 +42,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kostIT13&theme=github-dark&hide_border=true)
 
+## 📅 Активность за год
+
+<!-- Замените 'kostIT13' на ваш ник, если нужно -->
+[![GitHub Activity Calendar](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kostIT13&theme=github_dark)](https://github.com/kostIT13)
