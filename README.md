@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=lightning&color=0:FFD700,100:FFA500&height=150&section=header&text=kostIT13&fontSize=50&fontColor=000000&animation=fadeIn" alt="header"/>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100" alt="coding"/>
 </p>
 
 ## GitHub Stats
