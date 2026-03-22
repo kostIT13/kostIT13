@@ -1,13 +1,60 @@
-# Привет! Я kostIT13 👋
 ### 🤖 AI/ML разработчик | 🔍 RAG энтузиаст | 💻 C/Python developer
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+
 
 ---
 
-## 🎯 Сейчас в работе
+## 🛠️ Технологический стек
 
-🚀 **CorpKnow AI** — корпоративный ассистент знаний с RAG
-> Интеллектуальная система для работы с корпоративной документацией, отвечающая на вопросы на основе внутренней базы знаний.
+### 🧠 AI & Data
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=flat-square" alt="RAG"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+### ⚙️ Backend & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+</p>
+
+### 🔧 Low-level & Algorithms
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/GCC-478CB3?style=flat-square&logo=gcc&logoColor=white" alt="GCC"/>
+  <img src="https://img.shields.io/badge/Algorithms-2ECC71?style=flat-square" alt="Algorithms"/>
+</p>
+
+---
+
+## 📊 GitHub Статистика
+
+<!-- Замените 'kostIT13' на ваш ник, если виджеты не отобразятся сразу -->
+
+| ![](https://github-readme-stats.vercel.app/api?username=kostIT13&show_icons=true&theme=github_dark&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kostIT13&layout=compact&theme=github_dark&hide_border=true) |
+|---|---|
+
+---
+
+## 🔥 Активность
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kostIT13&theme=github-dark&hide_border=true)
+
+---
+
+## 📚 Изучаю сейчас
+
+- [ ] Продвинутые техники RAG (HyDE, Query Expansion)
+- [ ] Оптимизация LLM инференса
+- [ ] Алгоритмы на C (суффиксные массивы, графы)
+- [ ] Системное программирование
+
+---
+
+## 💬 Связаться со мной
+
+> Открыт к коллаборациям в области AI, RAG и образовательных проектов!
