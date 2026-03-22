@@ -14,6 +14,10 @@ $ tech_stack
 
 $ next_goal
 > ✨ Master advanced RAG techniques
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Building+CorpKnow+AI...;RAG+%26+LLM+Enthusiast;Solving+algorithms+in+C;Open+to+collaboration!" alt="Typing SVG"/>
+</p>
 ```
 
 # AI/ML developer
