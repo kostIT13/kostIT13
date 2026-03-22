@@ -1,10 +1,8 @@
-### 🤖 AI/ML разработчик | 🔍 RAG энтузиаст | 💻 C/Python developer
+### AI/ML developer
 
+## Technologies
 
-
-## 🛠️ Технологический стек
-
-### 🧠 AI & Data
+### AI & Data
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
@@ -12,7 +10,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
-### ⚙️ Backend & DevOps
+### Backend & DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
@@ -20,7 +18,7 @@
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
 </p>
 
-### 🔧 Low-level & Algorithms
+### Low-level & Algorithms
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/GCC-478CB3?style=flat-square&logo=gcc&logoColor=white" alt="GCC"/>
@@ -29,7 +27,7 @@
 
 ---
 
-## 📊 GitHub Статистика
+## GitHub Статистика
 
 <!-- Замените 'kostIT13' на ваш ник, если виджеты не отобразятся сразу -->
 
