@@ -27,6 +27,33 @@
 
 ---
 
+
+## 🎪 Добро пожаловать в мою вселенную кода!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/6nWhy3ulBL7GSuKrjm/giphy.gif" width="80" alt="rocket"/>
+  <strong>Загрузка профиля...</strong>
+  <img src="https://media.giphy.com/media/6nWhy3ulBL7GSuKrjm/giphy.gif" width="80" alt="rocket"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FFAA&center=true&vCenter=true&width=500&lines=🤖+Building+CorpKnow+AI;🔍+RAG+%7C+LangChain+%7C+LLM;💻+C+%26+Python+Developer;🎯+Solving+hard+problems;✨+Let's+create+something+amazing!" alt="Typing"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kostIT13&label=👁️+Views&color=blue&style=flat-square" alt="views"/>
+  <img src="https://img.shields.io/github/stars/kostIT13?style=social" alt="stars"/>
+  <img src="https://img.shields.io/badge/📍-Moscow%2C%20RU-yellow?style=flat-square" alt="location"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="200" alt="coding"/>
+</p>
+
+<!-- Змейка -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kostIT13/kostIT13/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</p>
 ## GitHub Статистика
 
 <!-- Замените 'kostIT13' на ваш ник, если виджеты не отобразятся сразу -->
