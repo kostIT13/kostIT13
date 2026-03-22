@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="150" alt="coding"/>
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="ai"/>
 </p>
+
 ## GitHub Stats
 
 <!-- Замените 'kostIT13' на ваш ник, если виджеты не отобразятся сразу -->
