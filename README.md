@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="250" alt="space"/>
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="80" alt="python"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt="ai"/>
+  <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="80" alt="code"/>
+</p>
+
+<p align="center">
+  <strong>Python</strong> &nbsp;&nbsp;&nbsp; <strong>AI/ML</strong> &nbsp;&nbsp;&nbsp; <strong>C/C++</strong>
 </p>
 
 ## GitHub Stats
