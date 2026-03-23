@@ -1,17 +1,15 @@
-## 🛠️ My Technology Stack
+##  My Technology Stack
 
 <p align="center">
-  <!-- Языки и фреймворки -->
+  <img src="https://img.shields.io/badge/🤖_LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white" height="50" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/🔗_LangGraph-9333EA?style=for-the-badge" height="50" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/🔍_RAG-FF6B6B?style=for-the-badge&logo=elasticsearch&logoColor=white" height="50" alt="RAG"/>
+  <img src="https://img.shields.io/badge/💬_Chainlit-009688?style=for-the-badge&logo=chat&logoColor=white" height="50" alt="Chainlit"/>
+</p>
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI"/>
-  
-  <!-- AI / LLM / RAG -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" width="50" height="50" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/🔗_LangGraph-121212?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" height="50"/>
-  <img src="https://img.shields.io/badge/🔍_RAG-FF6B6B?style=flat-square" alt="RAG" height="50"/>
-  <img src="https://img.shields.io/badge/💬_Chainlit-009688?style=flat-square&logo=chat&logoColor=white" alt="Chainlit" height="50"/>
-  
-  <!-- Базы данных и инструменты -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
