@@ -1,4 +1,4 @@
-##  My Technology Stack
+#  My Technology Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/🤖_LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white" height="50" alt="LangChain"/>
