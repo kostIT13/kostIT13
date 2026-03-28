@@ -25,6 +25,36 @@
   <strong>Git</strong>
 </p>
 
-| ![](https://github-readme-stats.vercel.app/api?username=kostIT13&show_icons=true&theme=github_dark&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kostIT13&layout=compact&theme=github_dark&hide_border=true) |
-|---|---|
+
+---
+
+## 📊 GitHub Статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kostIT13&show_icons=true&theme=github_dark&hide_border=true&title_color=00FFAA&icon_color=00FFAA&text_color=ffffff&bg_color=00000000" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kostIT13&theme=github-dark&hide_border=true&fire=FF6B6B&ring=00FFAA&currStreakLabel=00FFAA" alt="Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kostIT13&theme=github_dark&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 📈 Активность
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kostIT13&theme=react&hide_border=true&color=00FFAA&line=00FFAA&point=FFFFFF&area=true" alt="Activity Graph"/>
+</p>
+
+---
+
+##  Топ языков
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kostIT13&layout=compact&theme=github_dark&hide_border=true&title_color=00FFAA&text_color=ffffff" alt="Top Languages"/>
+</p>
 
