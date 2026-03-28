@@ -28,7 +28,6 @@
 
 ---
 
-## 📊 GitHub Статистика
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kostIT13&show_icons=true&theme=github_dark&hide_border=true&title_color=00FFAA&icon_color=00FFAA&text_color=ffffff&bg_color=00000000" alt="GitHub Stats"/>
@@ -44,7 +43,6 @@
 
 ---
 
-## 📈 Активность
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kostIT13&theme=react&hide_border=true&color=00FFAA&line=00FFAA&point=FFFFFF&area=true" alt="Activity Graph"/>
@@ -52,7 +50,6 @@
 
 ---
 
-##  Топ языков
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kostIT13&layout=compact&theme=github_dark&hide_border=true&title_color=00FFAA&text_color=ffffff" alt="Top Languages"/>
