@@ -12,7 +12,7 @@
 
 ## 🛠️ Tech Stack
 
-### 🔙 Backend
+### 🐍 Backend
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="fastapi" width="40" height="40"/>&nbsp;
