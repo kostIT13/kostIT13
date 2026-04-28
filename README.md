@@ -55,10 +55,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kostIT13&layout=compact&theme=radical&hide_border=true" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kostIT13&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=kostIT13&theme=radical&no-frame=true&no-bg=true&margin-w=4" height="150" />
-</p>
 
 ---
 
