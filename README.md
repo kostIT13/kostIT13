@@ -35,7 +35,7 @@
 
   <!-- DevOps & Tools -->
   <h4>🛠️ DevOps & Tools</h4>
-  <img src="https://skillicons.dev/icons?i=docker,docker,nginx,git,github,gitlab,vscode,pycharm,postman" /><br><br>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,gitlab,vscode,pycharm" /><br><br>
 
   <!-- 🧠 AI / LLM Stack -->
   <h4>🤖 AI & LLM Ecosystem</h4>
