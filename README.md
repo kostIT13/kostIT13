@@ -1,67 +1,88 @@
-<!-- Header -->
-<h1 align="center">👋 Hello, i am <strong>kostIT13</strong></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&center=true&vCenter=true&width=450&height=70&duration=3000&pause=1000&color=ff00ff&background=0a0a0f&lines=KONSTANTIN+BALANDIN;>>+AI_ENGINEER/BACKEND" />
+</h1>
+
+<!-- Animated divider -->
 <p align="center">
-  <em>Full-Stack Developer & AI Engineer</em><br>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="600"/>
 </p>
 
+<h3 align="center">AI Engineer | Full-Stack Developer</h3>
+<p align="center">📍 Novosibirsk • 🎓 NSU • 🎯 Developing AI/LLM applications with Python</p>
 
-<!-- Animated Divider -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+<br/>
+
+<div align="center">
+ 
+ 💡 I'm passionate about **RAG Systems • AI-Agents • LLM Integration • Clean Architecture**
+ 
+ </div>
 
 
-## 🛠️ Tech Stack
+<hr/>
+ 
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
+<br/>
+<div align="center">
 
-### 🐍 Backend
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="fastapi" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="sqlalchemy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="docker" width="40" height="40"/>&nbsp;
+  <!-- Backend -->
+  <h4>🐍 Backend</h4>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,redis,bash" /><br><br>
+
+  <!-- Frontend -->
+  <h4>🎨 Frontend</h4>
+  <img src="https://skillicons.dev/icons?i=react,typescript,html,css,vite" /><br><br>
+
+  <!-- DevOps & Tools -->
+  <h4>🛠️ DevOps & Tools</h4>
+  <img src="https://skillicons.dev/icons?i=docker,docker,nginx,git,github,gitlab,vscode,pycharm,postman" /><br><br>
+
+  <!-- 🧠 AI / LLM Stack -->
+  <h4>🤖 AI & LLM Ecosystem</h4>
+  <img src="https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Chainlit-FF4A00?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChromaDB-FFD43B?logo=chroma&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-000000?logo=github&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenRouter-7C3AED?logo=openai&logoColor=white&style=for-the-badge" />
+  
 </div>
 
-### 🎨 Frontend
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="react" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="css3" width="40" height="40"/>&nbsp;
+<br/>
+<hr/>
+
+<!-- Календарь коммитов за год -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kostIT13&theme=react-dark&hide_border=true&area=true&custom_title=My+Contribution+Activity" />
 </div>
 
-### 🤖 AI / ML
-<div>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graph&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chainlit-FF4B4B?style=for-the-badge&logo=chainlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FFD900?style=for-the-badge&logo=chroma&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<br/>
+<hr/>
+
+
+<br/>
+<hr/>
+
+<h3 align="center">🔭 Featured Projects</h3>
+<div align="center">
+  
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[CorpKnow AI](https://github.com/kostIT13/CorpKnow-AI)** | 🧠 Smart Corporate Knowledge Assistant with RAG | `Python` `FastAPI` `LangChain` `ChromaDB` `React` |
+| **[AI Candidate Screening](https://github.com/kostIT13/AI-system-for-screening-candidates)** | 🎯 Intelligent system for automated candidate evaluation | `Python` `LLM` `RAG` `Jupyter` |
+| **[MTS TechHack Solution](https://github.com/kostIT13/LocalScript_solution_mts_true_techhack)** | ⚡ AI-agent for Lua code generation | `Ollama` `RAG` `Sandbox` `Python` |
+
 </div>
 
-### 🧰 Tools
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="pycharm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>&nbsp;
-</div>
-
----
+<br/>
+<hr/>
 
 <p align="center">
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kostIT13&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kostIT13&layout=compact&theme=radical&hide_border=true" height="150" />
+  <img src="https://komarev.com/ghpvc/?username=kostIT13&label=Profile+views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-
----
-
-<p align="center">
-  <em>Last update: <strong>2026</strong></em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kostIT13&label=Profile%20Views&color=0e75b6&style=flat" alt="kostIT13" />
-</p>
+<!--
+💡 Tip: Replace placeholder links (email, Telegram, LinkedIn) with your actual contacts.
+🎨 Want to change the theme? Try: buefy, dark, radical, merko, vue, dracula
+-->
