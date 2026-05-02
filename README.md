@@ -1,13 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&center=true&vCenter=true&width=450&height=70&duration=3000&pause=1000&color=ff00ff&background=0a0a0f&lines=KONSTANTIN+BALANDIN;>>+AI_ENGINEER/BACKEND" />
-</h1>
+<h1 align="center">AI Engineer | Full-Stack Developer</h1>
 
 <!-- Animated divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="600"/>
 </p>
 
-<h3 align="center">AI Engineer | Full-Stack Developer</h3>
 <p align="center">📍 Novosibirsk • 🎓 NSU • 🎯 Developing AI/LLM applications with Python</p>
 
 <br/>
