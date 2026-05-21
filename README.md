@@ -1,31 +1,36 @@
-<div align="center">
+# 👋Привет, я Константин Баландин
 
-  <!-- Backend -->
-  <h4>🐍 Backend</h4>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,redis,bash" /><br><br>
+🚀 **Backend & AI Engineer** | Разрабатываю высоконагруженные API, RAG-системы и AI-агентов  
+📍 Локация: [Новосибирск] 
 
-  <!-- Frontend -->
-  <h4>🎨 Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=react,typescript,html,css,vite" /><br><br>
+---
 
-  <!-- DevOps & Tools -->
-  <h4>🛠️ DevOps & Tools</h4>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,gitlab,vscode,pycharm" /><br><br>
+## 🛠️ Технологический стек
 
-  <!-- 🧠 AI / LLM Stack -->
-  <h4>🤖 AI & LLM Ecosystem</h4>
-  <img src="https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-000000?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Chainlit-FF4A00?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ChromaDB-FFD43B?logo=chroma&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-000000?logo=github&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenRouter-7C3AED?logo=openai&logoColor=white&style=for-the-badge" />
-  
-</div>
+### 🐍 Backend & Data
+`Python` `FastAPI` `SQLAlchemy` `Alembic` `PostgreSQL` `Redis` `C`
 
-<br/>
-<hr/>
+### 🤖 AI / LLM & RAG
+`LangChain` `LangGraph` `RAG` `ChromaDB` `Ollama` `OpenRouter` `transformers` `QLoRA`
+
+### 🌐 Frontend & AI UI
+`TypeScript` `React` `HTML/CSS` `Streamlit` `Chainlit`
+
+### 🐳 DevOps & Infra
+`Docker` `Docker Compose` `Nginx`
+
+---
+
+## 🔍 Чем я занимаюсь
+- ✅ Проектирую и деплою асинхронные REST API на **FastAPI**
+- 🧠 Создаю **RAG-пайплайны** и многоагентные системы на **LangGraph / LangChain**
+- 🔄 Интегрирую open-source и коммерческие LLM (**Ollama, OpenRouter**), провожу fine-tuning (**QLoRA, transformers**)
+- 🗄️ Настраиваю миграции, кеширование и векторный поиск (**Alembic, Redis, ChromaDB**)
+- 🌐 Разрабатываю прототипы, дашборды и чат-интерфейсы (**Streamlit, Chainlit, React + TS**)
+- 🐳 Упаковываю решения в контейнеры, настраиваю reverse-proxy и маршрутизацию (**Docker, Nginx**)
+
+---
+
 
 <!-- Календарь коммитов за год -->
 <div align="center">
