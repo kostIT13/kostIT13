@@ -1,52 +1,65 @@
-# 👋Привет, я Константин Баландин
+# 👋 Привет, я Константин Баландин
 
-🚀 **Backend & AI Engineer** | Разрабатываю высоконагруженные API, RAG-системы и AI-агентов  
-📍 г.Новосибирск, Россия 
+🚀 **Backend & AI Engineer** | Разрабатываю высоконагруженные API, RAG-системы и мульти-агентные AI-решения
+📍 г. Новосибирск, Россия · [Telegram](https://t.me/jiikoool)
 
 ---
 
 ## 🛠️ Технологический стек
 
 ### 🐍 Backend & Data
-`Python` `FastAPI` `SQLAlchemy` `Alembic` `PostgreSQL` `Redis` `C`
 
-### 🤖 AI / LLM & RAG
-`LangChain` `LangGraph` `RAG` `ChromaDB` `Ollama` `OpenRouter` `transformers` `QLoRA`
+`Python` `FastAPI` `REST API` `SQLAlchemy` `Alembic` `PostgreSQL` `PGVector` `Redis` `C`
+
+### 🤖 LLM / NLP & Fine-tuning
+
+`Hugging Face` `transformers` `sentence-transformers` `PEFT` `LoRA / QLoRA fine-tuning` `Ollama` `OpenRouter`
+
+### 🧠 Agents & Orchestration
+
+`LangChain` `LangGraph` `AI Agents` `Multi-agent systems` `RAG-agents` `ReAct agents`
+
+### 🔍 RAG & Retrieval
+
+`RAG` `Qdrant` `ChromaDB` `PGVector` `BM25 / RRF retrieval` `Reranking`
+
+### 📊 Evaluation & Observability
+
+`RAGAS` `Arize Phoenix`
 
 ### 🌐 Frontend & AI UI
-`TypeScript` `React` `HTML/CSS` `Streamlit` `Chainlit`
+
+`TypeScript` `React` `Streamlit` `Chainlit`
 
 ### 🐳 DevOps & Infra
+
 `Docker` `Docker Compose` `Nginx`
 
 ---
 
 ## 🔍 Чем я занимаюсь
-- ✅ Проектирую и деплою асинхронные REST API на **FastAPI**
-- 🧠 Создаю **RAG-пайплайны** и многоагентные системы на **LangGraph / LangChain**
-- 🔄 Интегрирую open-source и коммерческие LLM (**Ollama, OpenRouter**), провожу fine-tuning (**QLoRA, transformers**)
-- 🗄️ Настраиваю миграции, кеширование и векторный поиск (**Alembic, Redis, ChromaDB**)
-- 🌐 Разрабатываю прототипы, дашборды и чат-интерфейсы (**Streamlit, Chainlit, React + TS**)
+
+- ✅ Проектирую и деплою асинхронные **REST API** на **FastAPI** с **SQLAlchemy** и миграциями **Alembic**
+- 🧠 Строю **RAG-пайплайны**: гибридный поиск (**BM25/RRF**), **reranking**, векторные БД **Qdrant / ChromaDB / PGVector**
+- 🤝 Разрабатываю **мульти-агентные системы** и **ReAct-агентов** на **LangGraph / LangChain**
+- 🔄 Интегрирую open-source и коммерческие LLM (**Ollama, OpenRouter**), работаю с **Hugging Face**, **transformers**, **sentence-transformers**
+- 🎯 Провожу **fine-tuning** моделей (**PEFT, LoRA/QLoRA**) под доменные задачи
+- 📈 Оцениваю качество RAG-систем через **RAGAS** и веду **observability** через **Arize Phoenix**
+- 🗄️ Настраиваю кеширование и хранение состояний (**Redis, PostgreSQL**)
+- 🌐 Разрабатываю прототипы, дашборды и чат-интерфейсы (**Streamlit, Chainlit, React + TypeScript**)
 - 🐳 Упаковываю решения в контейнеры, настраиваю reverse-proxy и маршрутизацию (**Docker, Nginx**)
 
 ---
 
+## 📌 Закреплённые проекты
 
-<!-- Календарь коммитов за год -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kostIT13&theme=react-dark&hide_border=true&area=true&custom_title=My+Contribution+Activity" />
-</div>
+- **[CorpKnow-AI](https://github.com/kostIT13/CorpKnow-AI)** — корпоративный ассистент со знаниями на базе RAG
+- **[DocuWeave](https://github.com/kostIT13/DocuWeave)** — веб-приложение для работы с документами: RAG + агент на LangGraph
+- **[AI-system-for-screening-candidates](https://github.com/kostIT13/AI-system-for-screening-candidates)** — система автоматизации отбора кандидатов
+- **[LocalScript_solution_mts_true_techhack](https://github.com/kostIT13/LocalScript_solution_mts_true_techhack)** — AI-агент для генерации Lua-кода (Ollama + RAG + Sandbox)
 
-<div align=center>
-  <img width="425" align="center" src="https://leetcard.jacoblin.cool/123321koko?theme=unicorn" alt="strike"/>
-</div>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kostIT13&label=Profile+views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kostIT13&theme=react-dark&hide_border=true&area=true&custom_title=My+Contribution+Activity)
 
-
-<!--
-💡 Tip: Replace placeholder links (email, Telegram, LinkedIn) with your actual contacts.
-🎨 Want to change the theme? Try: buefy, dark, radical, merko, vue, dracula
--->
+![Profile Views](https://komarev.com/ghpvc/?username=kostIT13&label=Profile+views&color=0e75b6&style=flat)
