@@ -1,7 +1,8 @@
 # 👋 Привет, я Константин Баландин
 
 🚀 **Backend & AI Engineer** | Разрабатываю высоконагруженные API, RAG-системы и мульти-агентные AI-решения
-📍 г. Новосибирск, Россия · [Telegram](https://t.me/jiikoool)
+
+📍 г. Новосибирск, Россия · 
 
 ---
 
@@ -35,21 +36,7 @@
 
 `Docker` `Docker Compose` `Nginx`
 
----
-
-## 🔍 Чем я занимаюсь
-
-- ✅ Проектирую и деплою асинхронные **REST API** на **FastAPI** с **SQLAlchemy** и миграциями **Alembic**
-- 🧠 Строю **RAG-пайплайны**: гибридный поиск (**BM25/RRF**), **reranking**, векторные БД **Qdrant / ChromaDB / PGVector**
-- 🤝 Разрабатываю **мульти-агентные системы** и **ReAct-агентов** на **LangGraph / LangChain**
-- 🔄 Интегрирую open-source и коммерческие LLM (**Ollama, OpenRouter**), работаю с **Hugging Face**, **transformers**, **sentence-transformers**
-- 🎯 Провожу **fine-tuning** моделей (**PEFT, LoRA/QLoRA**) под доменные задачи
-- 📈 Оцениваю качество RAG-систем через **RAGAS** и веду **observability** через **Arize Phoenix**
-- 🗄️ Настраиваю кеширование и хранение состояний (**Redis, PostgreSQL**)
-- 🌐 Разрабатываю прототипы, дашборды и чат-интерфейсы (**Streamlit, Chainlit, React + TypeScript**)
-- 🐳 Упаковываю решения в контейнеры, настраиваю reverse-proxy и маршрутизацию (**Docker, Nginx**)
-
----
+--
 
 ## 📌 Закреплённые проекты
 
