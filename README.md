@@ -36,7 +36,6 @@
 
 `Docker` `Docker Compose` `Nginx`
 
---
 
 ## 📌 Закреплённые проекты
 
