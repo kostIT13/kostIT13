@@ -9,7 +9,7 @@
 </p>
 
 - **languages**: Python • C • JavaScript • TypeScript • SQL
-- **backend**: FastAPI • SQLAlchemy • REST APIs • WebSockets
+- **backend**: FastAPI • SQLAlchemy • REST APIs
 - **frontend**: React • TypeScript • HTML/CSS
 - **databases**: PostgreSQL • PGVector • Redis • SQLite
 - **LLM & AI**: Hugging Face • Transformers • Sentence Transformers • PEFT • LoRA/QLoRA • Ollama • OpenRouter
