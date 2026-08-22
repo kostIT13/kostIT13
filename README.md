@@ -11,11 +11,11 @@
 - **languages**: Python • C • JavaScript • TypeScript • SQL
 - **backend**: FastAPI • SQLAlchemy • REST APIs
 - **frontend**: React • TypeScript • HTML/CSS
-- **databases**: PostgreSQL • PGVector • Redis • SQLite
+- **databases**: PostgreSQL • Redis • SQLite
 - **LLM & AI**: Hugging Face • Transformers • Sentence Transformers • PEFT • LoRA/QLoRA • Ollama • OpenRouter
 - **RAG Stack**: LangChain • LangGraph • RAG • Agents • Multi-Agents • RAG-Agents • Hybrid Retrieval
-- **Vector Databases**: Qdrant • ChromaDB
-- **Retrieval Techniques**: BM25 • RRF • Fusion • Reranking
+- **Vector Databases**: Qdrant • ChromaDB • pgvector
+- **Retrieval Techniques**: BM25 • RRF • Reranking
 - **Evaluation & Observability**: RAGAS • Arize Phoenix • LangFuse
 - **Tools & Infra**: Docker • Docker Compose • Git • Linux • Nginx
 - **UI/UX**: Chainlit • Streamlit
