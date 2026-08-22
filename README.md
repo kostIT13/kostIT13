@@ -13,10 +13,10 @@
 - **frontend**: React • TypeScript • HTML/CSS
 - **databases**: PostgreSQL • PGVector • Redis • SQLite
 - **LLM & AI**: Hugging Face • Transformers • Sentence Transformers • PEFT • LoRA/QLoRA • Ollama • OpenRouter
-- **RAG Stack**: LangChain • LangGraph • LangFuse • RAG • Agents • Multi-Agents • RAG-Agents • Hybrid Retrieval
+- **RAG Stack**: LangChain • LangGraph • RAG • Agents • Multi-Agents • RAG-Agents • Hybrid Retrieval
 - **Vector Databases**: Qdrant • ChromaDB
 - **Retrieval Techniques**: BM25 • RRF • Fusion • Reranking
-- **Evaluation & Observability**: RAGAS • Arize Phoenix
+- **Evaluation & Observability**: RAGAS • Arize Phoenix • LangFuse
 - **Tools & Infra**: Docker • Docker Compose • Git • Linux • Nginx
 - **UI/UX**: Chainlit • Streamlit
 
