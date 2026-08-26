@@ -12,13 +12,13 @@
 - **backend**: FastAPI • SQLAlchemy • REST APIs
 - **frontend**: React • TypeScript • HTML/CSS
 - **databases**: PostgreSQL • Redis • SQLite
-- **LLM & AI**: Hugging Face • Transformers • Sentence Transformers • PEFT • LoRA/QLoRA • Ollama • OpenRouter
+- **LLM & AI**: Hugging Face • Transformers • Sentence Transformers • PEFT • LoRA/QLoRA • Ollama • OpenRouter • fastembed
 - **RAG Stack**: LangChain • LangGraph • RAG • Agents • Multi-Agents • RAG-Agents • Hybrid Retrieval
-- **Vector Databases**: Qdrant • ChromaDB • pgvector
+- **Vector Databases**: Qdrant • ChromaDB • pgvector • sqlite-vec • Milvus • FAISS
 - **Retrieval Techniques**: BM25 • RRF • Reranking
 - **Evaluation & Observability**: RAGAS • Arize Phoenix • LangFuse
 - **Tools & Infra**: Docker • Docker Compose • Git • Linux • Nginx
-- **UI/UX**: Chainlit • Streamlit
+- **UI/UX**: Chainlit • Streamlit 
 
 ---
 
