@@ -8,7 +8,7 @@
   <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,fastapi,react,docker,postgres,redis,git&theme=dark" alt="core skills" />
 </p>
 
-- **languages**: Python • C • JavaScript • TypeScript • SQL
+- **languages**: Python • C • C++ • JavaScript • TypeScript • SQL
 - **backend**: FastAPI • SQLAlchemy • REST APIs
 - **frontend**: React • TypeScript • HTML/CSS
 - **databases**: PostgreSQL • Redis • SQLite
