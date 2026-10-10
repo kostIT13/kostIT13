@@ -16,7 +16,7 @@
 - **RAG Stack**: LangChain • LangGraph • RAG • Agents • Multi-Agents • RAG-Agents • Hybrid Retrieval
 - **Vector Databases**: Qdrant • ChromaDB • pgvector • sqlite-vec • Milvus • FAISS
 - **Retrieval Techniques**: BM25 • RRF • Reranking
-- **Evaluation & Observability**: RAGAS • Arize Phoenix • LangFuse
+- **Evaluation & Observability**: RAGAS • Arize Phoenix • LangFuse • MLflow
 - **Tools & Infra**: Docker • Docker Compose • Git • Linux • Nginx
 - **UI/UX**: Chainlit • Streamlit 
 
