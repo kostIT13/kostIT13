@@ -1,4 +1,4 @@
-18-year-old developer & tech enthusiast. passionate about backend development, machine learning, ai engineering and building scalable systems. currently exploring the intersection of AI and software engineering.
+19-year-old developer & tech enthusiast. passionate about backend development, machine learning, ai engineering and building scalable systems. currently exploring the intersection of AI and software engineering.
 
 ---
 
